@@ -25,5 +25,4 @@ Thumbs.db
 
 # Unreal autosaves
 Content/Developers/
-Content/__ExternalActors__/
-Content/__ExternalObjects__/
+*.slnAlgoWorld/Content/HubWorld.zip
